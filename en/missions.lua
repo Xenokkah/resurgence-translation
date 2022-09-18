@@ -605,51 +605,91 @@ lang["#MISSION_NICK_WHATAPLACE_ITEMNAME"] = "Crate with Electronics"
 -- ╚═════╝  ╚═════╝ ╚══════╝     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝     ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 
 lang["#MISSION_BOSGUARD_PROVE"] = "Prove your Worth"
-lang["#MISSION_BOSGUARD_PROVE_DESC"] = "Look.. If you really want in, you have to prove you can be useful. If you head north, you'll wind up in a place called Ash Lands. Find a gas station, and inside it, you'll find an entrance to a bunker. We sent a team to retrieve some technical data, but we lost contact with them after they reported Super Mutants.\n\nIf you can recover the technical data they went to retrieve... Then I'll think about letting you in."
-lang["#MISSION_BOSGUARD_PROVE_HINT"] = "Find the Technical Data. It's stored on a holo-tape found at the second level of a bunker under a gas station in ash-lands. The bunker is crawling with Super Mutants, so this won't be easy.\n\nA group is recommended to tackle the bunker."
-lang["#MISSION_BOSGUARD_PROVE_COMPLETE"] = "No way... you actually made it- I mean, ha, I knew you could do it... well... I suppose you can be useful."
+lang["#MISSION_BOSGUARD_PROVE_DESC"] = "Have I made myself unclear? This outpost is under the control of the Brotherhood of Steel and you are not welcome here. lthough... no, stop. If you want access to our outpost, I suppose I have a way that you could prove your worth to us.\n\nAs you may or may not know, the Brotherhood of Steel collects and catalogues rare and valuable pre-war technology. We have become aware of a location in the Ashlands to the north of here that contains blueprints for a piece of technology we are struggling to repair. If you recover these documents, you will be permitted into the outpost. If you survive, I may have additional work for you.\n\nIf you have no intention of aiding us, do not bother to return."
+lang["#MISSION_BOSGUARD_PROVE_HINT"] = "Find the Technical Data. It's stored on a holo-tape found at the second level of a bunker under a gas station in the Ashlands. The bunker is crawling with Super Mutants, so this won't be easy.\n\nA group is recommended to tackle the bunker."
+lang["#MISSION_BOSGUARD_PROVE_COMPLETE"] = "I was not expecting to see you again, wastelander. Very well, a promise is a promise; here is the code to the lock."
 lang["#MISSION_BOSGUARD_PROVE_ITEMNAME"] = "Technical Data"
 
 lang["#MISSION_BOSGUARD_ICEPICKS"] = "Icepick Massacare"
-lang["#MISSION_BOSGUARD_ICEPICKS_DESC"] = "There's a lot more Raiders out in these mountains than we initially thought... they're proving to be quite a menace to our patrols. Notably, a group that goes by the \"Ice Picks\" have already given us a couple of casulties, especially thanks to the Armor Piercing munitions they're using. We're putting a bounty out for 10 Ice Picks. Take out 10 of them, and a reward is yours."
-lang["#MISSION_BOSGUARD_ICEPICKS_HINT"] = "Eliminate 10 Ice Pick Bandits in Mountain Pass. They're scattered all over, but they like to camp out along the bridge over the Lake."
-lang["#MISSION_BOSGUARD_ICEPICKS_COMPLETE"] = "Excellent Work. That should make things a little easier to patrol around here."
+lang["#MISSION_BOSGUARD_ICEPICKS_DESC"] = "When we came to this valley, we were not overly concerned for threats to our well-being; we are on decent terms with the Republic and no Yao Guai claws can tear through T-51. We underestimated the natives, however, and we have already suffered a dozen Paladins wounded and even three killed. The Elder has authorized a bounty on these cretins. Kill 10 of them for us and you will be amply rewarded."
+lang["#MISSION_BOSGUARD_ICEPICKS_HINT"] = "Eliminate 10 Ice Pick Bandits in Mountain Pass. They're scattered all over, but they like to camp out along the bridge over the lake."
+lang["#MISSION_BOSGUARD_ICEPICKS_COMPLETE"] = "Excellent work; that should take the load off our away teams."
 
-lang["#MISSION_BOSGUARD_ICEPICKAP"] = "Supplyment Inquiry"
-lang["#MISSION_BOSGUARD_ICEPICKAP_DESC"] = "I have another matter concerning the Raiders in this area. Remember how I mentioned those Ice Picks are using Armor Piercing Munitions? Well, Ammunition like that is not easy to come by. We want to find out how they're getting it and we suspect someone is supplying them. They're too spread out up in these mountains, but if we can cut off their source of ammo, they'd be far less of a threat."
+lang["#MISSION_BOSGUARD_ICEPICKAP"] = "Supply Inquiry"
+lang["#MISSION_BOSGUARD_ICEPICKAP_DESC"] = "If you are up for additional work, we have some disturbing news. Every single raider we have killed has been carrying armor piercing ammunition. We have thoroughly combed the area for any sign of facilities capable of producing this type of ammunition and have come up empty handed. There are only a handful of possibilities, and I strongly suspect that they have a secondary supplier. Check out their camps for any missing link."
 lang["#MISSION_BOSGUARD_ICEPICKAP_HINT"] = "Find any information on how the Ice Picks are getting their ammo. Check their bases and encampments to see if you can find any evidence on their munitions supplier."
-lang["#MISSION_BOSGUARD_ICEPICKAP_COMPLETE"] = "You found something? Oh... I think I know what this means. I'm going to have it confirmed. Here's your reward."
+lang["#MISSION_BOSGUARD_ICEPICKAP_COMPLETE"] = "What's this? Hmm... not good. I will look into this further. Thank you. Take this for your trouble."
 lang["#MISSION_BOSGUARD_ICEPICKAP_ITEMNAME"] = "Ammo Crate"
 
 lang["#MISSION_BOSGUARD_ADVANCEDMATS"] = "Advanced Materials"
-lang["#MISSION_BOSGUARD_ADVANCEDMATS_DESC"] = "If you're looking to help, one of the best ways you can do that is help us secure materials needed to maintain our power armor. We're a long way from HQ, and getting supplies can take longer than we'd like."
+lang["#MISSION_BOSGUARD_ADVANCEDMATS_DESC"] = "Alright, I believe you are trusted enough to be given a more difficult job. We are a long way from Lost Hills and materials suitable for maintaining our advanced equipment are few and far between. If you can acquire some of these, you will be rewarded handsomely."
 lang["#MISSION_BOSGUARD_ADVANCEDMATS_HINT"] = "Find and retrieve 5 Advanced Materials. The most reliable source of these is by taking them from other enemies that use Power Armor."
-lang["#MISSION_BOSGUARD_ADVANCEDMATS_COMPLETE"] = "Thank you. This will greatly help us stay supplied."
+lang["#MISSION_BOSGUARD_ADVANCEDMATS_COMPLETE"] = "Excellent work. This will keep our Paladins in the fight."
 
 lang["#MISSION_BOSGUARD_FOODSUPPLIES"] = "Food Supplies"
-lang["#MISSION_BOSGUARD_FOODSUPPLIES_DESC"] = "Even with all of the caravans, Supplies are pretty scarce this far north. With how long we're planning on staying here, we're going to need more food. If you wouldn't mind some hunting in the local area, the local wildlife have been a reliable source of food."
-lang["#MISSION_BOSGUARD_FOODSUPPLIES_HINT"] = "Source and Retrieve the required meat. It can be bought from merchants or hunted from the local wildlife of the mountain pass."
-lang["#MISSION_BOSGUARD_FOODSUPPLIES_COMPLETE"] = "Good work! This will help keep our men fed and focused on the task at hand."
+lang["#MISSION_BOSGUARD_FOODSUPPLIES_DESC"] = "We have another problem. Resources are tight, and even with regular vertibird resupply flights from Lost Hills we are, plainly put, struggling to keep food on the table. If you can take down some of the local wildlife for their meat, you will be compensated."
+lang["#MISSION_BOSGUARD_FOODSUPPLIES_HINT"] = "Source and retrieve the required meat. It can be bought from merchants or hunted from the local wildlife of the mountain pass."
+lang["#MISSION_BOSGUARD_FOODSUPPLIES_COMPLETE"] = "Good work! This will help keep our men fed and focused."
 
 lang["#MISSION_BOSGUARD_SPECIALSAMPLE"] = "Special Sample"
-lang["#MISSION_BOSGUARD_SPECIALSAMPLE_DESC"] = "The Sribes inside are looking for a special kind of plant. Apparently, it only appears farther north, but apparently there's some that grow here in this mountain. If you can bring us a sample of this plant, the sribes will be able to put it towards their research."
-lang["#MISSION_BOSGUARD_SPECIALSAMPLE_HINT"] = "Source and Retrieve Blood Leaf. It can be found growing around the edge of the lake in Mountain Pass."
-lang["#MISSION_BOSGUARD_SPECIALSAMPLE_COMPLETE"] = "Let's see... Yes, this looks like how the Scribes described it. I'll pass it along to them. Thank you."
+lang["#MISSION_BOSGUARD_SPECIALSAMPLE_DESC"] = "The scribes here are searching for a certain kind of plant with leaves as red as blood. Though we have only seen samples of this plant further north, they have all been small and poor for study. Rumors have come to us that larger, more pure samples grow in the springs here in the mountains. Acquire a sample for us, if you would be so kind."
+lang["#MISSION_BOSGUARD_SPECIALSAMPLE_HINT"] = "Source and retrieve a sample of bloodleaf. It can be found growing around the edge of the lake in Mountain Pass."
+lang["#MISSION_BOSGUARD_SPECIALSAMPLE_COMPLETE"] = "Let me see. Yes... this is it, alright. Well done, wastelander."
 
 lang["#MISSION_BOSGUARD_ELECTRONICS"] = "Electronic Supply"
-lang["#MISSION_BOSGUARD_ELECTRONICS_DESC"] = "We're always running low on miscellaneous items, but what the Scribes always need are more scrap electronics. Apparently, many of the raw materials in them can be repurposed for use in our equipment. If you can bring us some, your efforts will be most appreciated."
+lang["#MISSION_BOSGUARD_ELECTRONICS_DESC"] = "We believe that we almost have the resources required to get the broadcast equipment back on. We have the manpower, but not the materials. Several teams are being dispatched to acquire some and we could use your help. If you retrieve scrap electronics for us, you will be compensated appropriately."
 lang["#MISSION_BOSGUARD_ELECTRONICS_HINT"] = "Source and Retrieve Scrap Electronics. They can be found in metal boxes, commonly found in corporate or industrial ruins."
-lang["#MISSION_BOSGUARD_ELECTRONICS_COMPLETE"] = "This is a good amount. These will be very useful, so here's your reward."
+lang["#MISSION_BOSGUARD_ELECTRONICS_COMPLETE"] = "Between your work and that of our teams, we have everything we need. Excellent job."
 
 lang["#MISSION_BOSGUARD_GHOULWOES"] = "Ghoul Woes"
-lang["#MISSION_BOSGUARD_GHOULWOES_DESC"] = "The caravans aren't the only thing that comes through here. For some reason, ghouls are always flooding through the roads. They're mothing more than a nuisance to us mostly, but if you some of them out, it could certainly help."
+lang["#MISSION_BOSGUARD_GHOULWOES_DESC"] = "We've observed that the valley has an unusual amount of ghouls choking the roads. We have been culling them to a point, but extra help is always welcome. Interested in aiding us?"
 lang["#MISSION_BOSGUARD_GHOULWOES_HINT"] = "Find and Kill Feral Ghouls in Mountain Pass. Ghouls typically roam the roads."
 lang["#MISSION_BOSGUARD_GHOULWOES_COMPLETE"] = "Clean work again. Here's your reward."
 
 lang["#MISSION_BOSGUARD_SUPPLYRUN"] = "Package Retreival"
-lang["#MISSION_BOSGUARD_SUPPLYRUN_DESC"] = "We've put in an order with the NCR Camp to the south for some supplies. We need someone we can trust to head south to the town and pick up those supplies"
-lang["#MISSION_BOSGUARD_SUPPLYRUN_HINT"] = "Source and Retrieve the required supplies."
-lang["#MISSION_BOSGUARD_SUPPLYRUN_COMPLETE"] = "Good work! This will help keep our men fed and focused on the task at hand."
+lang["#MISSION_BOSGUARD_SUPPLYRUN_DESC"] = "We've put in an order with Crimson Caravan and the Republic for some very special supplies. I do not trust the average wastelander with such valuable technology, but you are not an average wastelander. Consider this the final test of loyalty you will be issued. If you do this for us, I will swear you into the Brotherhood of Steel as an Initiate. Will you carry this burden?"
+lang["#MISSION_BOSGUARD_SUPPLYRUN_HINT"] = "Source and retrieve the required supplies. They can be found at Camp Willow in the southernmost reaches of the Mountain Pass."
+lang["#MISSION_BOSGUARD_SUPPLYRUN_COMPLETE"] = "Excellent. Welcome to the Brotherhood of Steel, Initiate."
+
+-- ██████╗  ██████╗ ███████╗     ██████╗  ██████╗██████╗ ██╗██████╗ ███████╗   ███╗   ███╗██╗███████╗███████╗██╗ ██████╗ ███╗   ██╗███████╗
+-- ██╔══██╗██╔═══██╗██╔════╝    ██╔════╝ ██╔════╝██╔══██╗██║██╔══██╗██╔════╝   ████╗ ████║██║██╔════╝██╔════╝██║██╔═══██╗████╗  ██║██╔════╝
+-- ██████╔╝██║   ██║███████╗    ████████╗██║     ██████╔╝██║██████╔╝█████╗     ██╔████╔██║██║███████╗███████╗██║██║   ██║██╔██╗ ██║███████╗
+-- ██╔══██╗██║   ██║╚════██║          ██║██║     ██╔══██╗██║██╔══██╗██╔══╝     ██║╚██╔╝██║██║╚════██║╚════██║██║██║   ██║██║╚██╗██║╚════██║
+-- ██████╔╝╚██████╔╝███████║    ╚██████╔╝╚██████╗██╔══██╗██║██████╔╝███████╗   ██║ ╚═╝ ██║██║███████║███████║██║╚██████╔╝██║ ╚████║███████║
+-- ╚═════╝  ╚═════╝ ╚══════╝     ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝   ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+
+-- ███████╗███╗   ██╗ ██████╗██╗      █████╗ ██        ██╗███████╗ ███╗   ███╗██╗███████╗███████╗██╗ ██████╗ ███╗   ██╗███████╗
+-- ██╔════╝████╗  ██║██╔════╝██║     ██╔══██╗ ██      ██╔╝██╔════╝ ████╗ ████║██║██╔════╝██╔════╝██║██╔═══██╗████╗  ██║██╔════╝
+-- █████╗  ██╔██╗ ██║██║     ██║     ███████║  ██    ██╔╝ █████╗   ██╔████╔██║██║███████╗███████╗██║██║   ██║██╔██╗ ██║███████╗
+-- ██╔══╝  ██║╚██╗██║██║     ██║     ██╔══██║   ██  ██╔╝  ██╔══╝   ██║╚██╔╝██║██║╚════██║╚════██║██║██║   ██║██║╚██╗██║╚════██║
+-- ███████╗██║ ╚████║╚██████╗███████╗██║  ██║     ██╔╝    ███████╗ ██║ ╚═╝ ██║██║███████║███████║██║╚██████╔╝██║ ╚████║███████║
+-- ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═╝  ╚═╝     ═╝      ╚══════╝ ╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+
+lang["#MISSION_SOMNUS_PURITY"] = "Proving Purity"
+lang["#MISSION_SOMNUS_PURITY_DESC"] = "I see no obvious signs of mutation on you, but I'm not taking any chances with my people. To that end, I will be testing the purity of your genetics just to be safe. The medical bay in the gas station bunker has a suitable piece of equipment, but since the muties moved in I can't use it. Get it and we will find out together if you are of pure human genome."
+lang["#MISSION_SOMNUS_PURITY_HINT"] = "Retrieve the Enclave Test Kit in the Ashlands. It can be found in the bunker beneath the gas station."
+lang["#MISSION_SOMNUS_PURITY_COMPLTE"] = "You have it? Good. Now hold still. \n\nAs I suspected, pure human genome. Your government needs you, $playername.
+lang["#MISSION_SOMNUS_PURITY_ITEMNAME"] = "Enclave Test Kit"
+
+lang["#MISSION_SOMNUS_ENLISTMENT"] = "Enlisting in the Enclave"
+lang["#MISSION_SOMNUS_ENLISTMENT_DESC"] = "With your genetic purity confirmed, we can now make use of you. If you wish to serve your country, I can arrange for you to enlist with the United States Army. Given the 'unique' state of the world, however, I think we can skip BCT and school of the infantry. I want you to prove yourself in combat; find some of the muties in the area and eliminate them. Ten should do the trick."
+lang["#MISSION_SOMNUS_ENLISTMENT_HINT"] = "Eliminate 10 Rejected Super Mutants of any kind. They can be found in any area with buildings."
+lang["#MISSION_SOMNUS_ENLISTMENT_COMPLETE"] = "Our observers noted your progress. Welcome to the Army, soldier."
+
+lang["#MISSION_SOMNUS_MUTANTS"] = "Mutants"
+lang["#MISSION_SOMNUS_MUTANTS_DESC"] = "Though you've earned a place in the Army, you haven't earned a place in our home. We have a lot of targets to eliminate... so we'll start you off simple. Look around you, soldier. Our land is overrun. Out of control. Mutants and scum around every corner, and that doesn't even count the traitors.\n\nI think we have some work to do, soldier. We'll start with the mutants. Get to work, $playername.
+lang["#MISSION_SOMNUS_MUTANTS_HINT"] = "Kill 50 ghouls of any type in the Ashlands. They can be found all over the region, especially around and inside buildings."
+lang["#MISSION_SOMNUS_MUTANTS_COMPLETE"] = "I've noticed a lot less ghouls in the area, so I'll take that as you getting the job done. Here's your hazard pay."
+
+lang["#MISSION_SOMNUS_SCUM"] = "Scum"
+lang["#MISSION_SOMNUS_SCUM_DESC"] = "Next, we'll move onto the scum. You may not be aware, but super mutants were designed to be the best weapons the US Army could field; the next stage in humanity's evolution. However, in the 163 years since the Great War, they have either forgotten their place in the natural order or have forsaken it to instead wallow in the muck with the rest of the swine. End their miserable existences."
+lang["#MISSION_SOMNUS_SCUM_HINT"] = "Kill 30 Rejected Super Mutants in the Ashlands of any type. They can be found in any area with buildings."
+lang["#MISSION_SOMNUS_SCUM_COMPLTE"] = "Everywhere our teams go, they report super mutant bodies. This pleases me, soldier. This pleases me a great deal."
+
+lang["#MISSION_SOMNUS_TRAITORS"] = "Traitors"
+lang["#MISSION_SOMNUS_TRAITORS_DESC"] = "Now, Corporal $playername, we move onto traitors. Though the New California Republic is out of our reach for now, the much more immediate threat of the Brotherhood of Steel must be dealt with. Don't believe their claims of high-minded idealism; their founder, Roger Maxson, was a Captain in the Army responsible for the murder of several US Army soldiers and abandoning his post to the enemy. His followers are traitors one and all and are sentenced to death. Be my executioner, soldier."
+lang["#MISSION_SOMNUS_TRAITORS_HINT"] = "Kill 20 Brotherhood of Steel soldiers of any type. They can be found patrolling the Mountain Pass."
+lang["#MISSION_SOMNUS_TRAITORS_COMPLETE"] = "The only fitting punishment for treason is death. Well done."
 
 
 -- ███╗   ███╗██████╗        ███████╗ █████╗ ██╗  ████████╗    ██╗    ██╗███████╗██╗     ██╗     ███████╗
