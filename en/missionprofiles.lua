@@ -87,16 +87,23 @@ lang["#MISSION_GIVER_SUSAN_GREET_0"] = "Hey. I may still need some help with iss
 lang["#MISSION_GIVER_SUSAN_GREET_350"] = "Hey, $playername, We've still got some problems if you're looking for something to do.\n\n\nHere's what we need help with."
 lang["#MISSION_GIVER_SUSAN_GREET_FINISHED"] = "Hi, $playername. Unfortunately, if you're looking for something to do, we're good on all current assignments, and this region is protected from any further harm with those damn ghouls, thanks to you. I'd recommend checking out our town board, or talking to other people."
 
--- Bos Greeter
-lang["#MISSION_GIVER_BOSGUARD"] = "Knight Connors"
-lang["#MISSION_GIVER_BOSGUARD_NEW"] = "Halt Civilian! This is a restricted area. We don't let just let anyone in. We're running a very sensitive operation here and we don't need civilians getting in the way.\n\nOnly those who prove useful can enter."
-lang["#MISSION_GIVER_BOSGUARD_N0"] = "You have a lot of nerve showing up here. You have a long way to go and a lot to do if you want to be in our favor again."
-lang["#MISSION_GIVER_BOSGUARD_0"] = "Oh. Its you... well, if you're still feeling like you want to help, there's always more we need done."
-lang["#MISSION_GIVER_BOSGUARD_25"] = "I'm impressed, but you're going to need to do a little more than that before you can come in. Here's what needs doing."
-lang["#MISSION_GIVER_BOSGUARD_50"] = "Well, I guess you're not useless after all... The boys inside will let you in. They'll have supplies and some more missions for you."
-lang["#MISSION_GIVER_BOSGUARD_100"] = "Hey $playername, I'm glad you're still helping out. I've still got things to do if you have any spare time."
+-- BoS Greeter
+lang["#MISSION_GIVER_BOSGUARD"] = "Paladin Geary"
+lang["#MISSION_GIVER_BOSGUARD_SUBTITLE"] = "Brotherhood of Steel"
+lang["#MISSION_GIVER_BOSGUARD_NEW"] = "Halt, wastelander. This area is under the jurisdiction of the Brotherhood of Steel and is restricted to civilian traffic. That means you."
+lang["#MISSION_GIVER_BOSGUARD_N100"] = "Have you come crawling back to us to beg forgiveness, cur? Then you had best prove yourself, we have a lot to do and not enough hands to do it."
+lang["#MISSION_GIVER_BOSGUARD_GREET_0"] = "You again. I thought I already told you to leave. Make yourself useful or begone."
+lang["#MISSION_GIVER_BOSGUARD_GREET_25"] = "You have made yourself useful, but I still see no reason to permit you into the station. If you want to prove yourself, now is the time."
+lang["#MISSION_GIVER_BOSGUARD_GREET_50"] = "Alright, I suppose you have earned entry into the station. My brothers and sisters of steel will have supplies available for purchase and work to do."
+lang["#MISSION_GIVER_BOSGUARD_GREET_100"] = "Good to see you, Initiate $playername, I am pleased to see you alive. If you are not otherwise engaged, I have missions available."
 
-lang["#MISSION_GIVER_BOSSCRIBE"] = "Scribe "
+-- BoS Scribe
+lang["#MISSION_GIVER_BOSSCRIBE"] = "Scribe O'Connors"
+lang["#MISSION_GIVER_BOSSCRIBE_SUBTITLE"] = "Brotherhood of Steel"
+lang["#MISSION_GIVER_BOSSCRIBE_NEW"] = "Oh, a new face! Welcome to Outpost Phalanx; call me Scribe O'Connors. If you want to help out, I always have work for the enterprising research assistant!"
+lang["#MISSION_GIVER_BOSSCRIBE_GREET_0"] = "Oh, hey! Wanna help me with my research?"
+lang["#MISSION_GIVER_BOSSCRIBE_GREET_100"] = "Good to see you again, $playername! Just dropping in to see me or did you feel like helping out?"
+lang["#MISSION_GIVER_BOSSSCRIBE_GREET_FINISHED"] = "Hi again, $playername! I'm always happy to chat, but... well, you've outpaced every project I can give you. I'm impressed!"
 
 --  █████╗ ███████╗██╗  ██╗██╗      █████╗ ███╗   ██╗██████╗ ███████╗
 -- ██╔══██╗██╔════╝██║  ██║██║     ██╔══██╗████╗  ██║██╔══██╗██╔════╝
@@ -116,6 +123,19 @@ lang["#MISSION_GIVER_CHALLENGER_SUBTITLE"] = "Challenger of the Wastes"
 lang["#MISSION_GIVER_CHALLENGER_GREET_NEW"] = "Hey, do you consider yourself a real wastelander? I think too many people underexaggerate what it means to be a wastelander. My name's Xanthan, or as most people like to call me the 'challenger'. If you truly want to prove yourself to the people around here, and to me, I have some things I want you to do. Just know, it will not be easy, and you're also getting paid greatly for it.\n\n\nHere are some challenges you can partake in."
 lang["#MISSION_GIVER_CHALLENGER_GREET"] = "Hello again, $playername. If you're still looking to do challenges, I should have many available.\n\n\nHere's a list of ones that you have not completed yet."
 lang["#MISSION_GIVER_CHALLENGER_GREET_FINISHED"] = "What more do I have to say? You've already proven yourself to me, and likely to several other people. I don't have anything available for you at the moment."
+
+--Colonel Somnus
+lang["#MISSION_GIVER_SOMNUS"] = "Captain Somnus"
+lang["#MISSION_GIVER_SOMNUS_SUBTITLE"] = "Enclave"
+lang["#MISSION_GIVER_SOMNUS_GREET_NEW"] = "You... you aren't mutated like the rest of them. Perhaps there are still some purebred Americans out there."
+lang["#MISSION_GIVER_SOMNUS_GREET_GHOUL"] = "Gah! Absolutely disgusting! Crawl back into your grave, zombie!"
+lang["#MISSION_GIVER_SOMNUS_GREET_SM"] = "Oh, look, another brute. Let me put this in a way you understand; you go bye bye or I make you die die."
+lang["#MISSION_GIVER_SOMNUS_GREET_WASTELANDER"] = "Another inbred loiterer... at least you're human. Go away, mutie. Be someone else's problem."
+lang["#MISSION_GIVER_SOMNUS_GREET_N100"] = "You're very brave to show your face here, traitor. You better have come back to work off your sentence."
+lang["#MISSION_GIVER_SOMNUS_GREET_0"] = "Your country needs you, citizen. We have a lot to do."
+lang["#MISSION_GIVER_SOMNUS_GREET_50"] = "Good day, soldier. I still have missions available if you wanna work up the ranks."
+lang["#MISSION_GIVER_SOMNUS_GREET_100"] = "Happy to see you alive, soldier. Here for a special assignment, I assume?"
+lang["#MISSION_GIVER_SOMNUS_GREET_FINISHED"] = "The front is all quiet and stable here, soldier. No priority assignments to go around right now."
 
 -- ██████╗ ███████╗ █████╗ ██████╗     ███████╗███████╗████████╗██╗   ██╗ █████╗ ██████╗ ██╗   ██╗
 -- ██╔══██╗██╔════╝██╔══██╗██╔══██╗    ██╔════╝██╔════╝╚══██╔══╝██║   ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
